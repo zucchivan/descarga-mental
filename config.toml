@@ -16,8 +16,8 @@ enableRobotsTXT = true
 
   [languages.en]
     title = "Descarga Mental"
-    weight = 1
-    contentDir = "content/pt"
+    weight = 2
+    contentDir = "content/en"
     #languageDirection = 'rtl' for Right-To-Left languages
  
 [params]
