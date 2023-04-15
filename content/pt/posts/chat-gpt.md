@@ -6,6 +6,9 @@ draft: true
 
 (todo: sentimentos sobre a compra do github pela microsoft, anúncio do copilot)
 
+(todo: adicionar imagem "where's the poop?" )
+![Text](https://gohugo.io/images/hugo-logo-wide.svg "Title")
+
 (todo: falar sobre whisperer e gpt)
 
 Usar trabalho alheio para treinar modelos e depois fechá-los em soluções estritamente privadas, sem retorno contínuo à comunidade é no mínimo anti-ético e se aproveita de uma área cinzenta de licenciamento open source (todo: faz sentido estar aqui? transformar em parágrafo?).
